@@ -1,0 +1,6 @@
+ p1:GITBASH
+ p2:GITHUB
+ p3:POSTMAN
+ p4:API
+ p5:JavaScript
+ p6:Python

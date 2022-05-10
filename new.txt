@@ -1,0 +1,4 @@
+name:Maxim Laptev
+age:28
+pets:1
+salary:40000
